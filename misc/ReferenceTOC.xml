@@ -64,6 +64,7 @@
 		<Item text="OfficeTab" url="manifest/officetab" Scope="excel, word, powerpoint" SEODescription="Specifies the pre-existing tab to use for an add-in command." />
 		<Item text="Resources" url="manifest/resources" Scope="excel, word, powerpoint" SEODescription="Contains icons, strings, and URLs for the VersionOverrides node." />
 		<Item text="SuperTip" url="manifest/supertip" Scope="excel, word, powerpoint" SEODescription="Defines a rich tooltip (both Title and Description)." />
+	</Item>
   </Item>
   
   <Item text="Word" url="word/word-add-ins-reference-overview" Scope="word" SEODescription="Word Javascript API reference overview">
